@@ -24,30 +24,36 @@
 .pagina-atendimento {
   display: grid;
   grid-template-columns: 0.6fr 1fr;
+  gap: 2rem;
 }
 
  .menu-selecao{
   display: flex;
   flex-direction: row-reverse;
- 
+  margin-top: 5rem;
   margin-left: 5%;
+ padding: 1.5rem;
+ 
 } 
 /* tratando da lista de itens */
+
 .menu-item {
   display: flex;
   flex-direction: column;
   align-items: center;
   color: white;
   font-family: 'THUNDERBOLT73-Regular', sans-serif;
-  font-size: 1.7rem;
+  font-size: 1.5rem;
   width: auto;
+  max-width: 80%;
   border-radius: 10px;
   text-align: center;
   background-color: rgba(54, 11, 76, 0.9);
-  margin-bottom: 2%;
+  margin-bottom: 3%;
   border: 1px solid white;
   letter-spacing: 0.04em;
-}
+  padding: 0.5rem;
+} 
 
 .item-name,
 .item-price {
@@ -57,28 +63,79 @@
 }
 
 .item-image-menu {
-  width: 25%;
+  width: 20%;
   height: auto;
-  margin:auto; /* Remove margem à direita */
+  margin:auto;  
   position: relative;
   object-fit: cover;
 }
 
-
-  
     
-  
-@media (max-width: 800px) {
-  .cafe, .principal{
-    font-size: 1.2rem;
-    padding: 5px 10px 5px 10px;
+@media (min-width: 668px) and (max-width: 1023px) {
+  .menu-selecao{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-left: 5%;
+   
+  } 
+
+  .item-image-menu {
+    max-width: 60%;
+    margin: auto;
+    height: auto;
+    margin:auto;  
+    position: relative;
+    object-fit: cover;
   }
-  .menu-item{
-    font-size: 1.1rem;
-    padding: 5px;
-    margin-right: 5px;
-  }
-  .item-price{
-    margin-top: 0;
-  }
+  .menu-item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: white;
+    font-family: 'THUNDERBOLT73-Regular', sans-serif;
+    font-size: 1.5rem;
+    width: auto;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgba(54, 11, 76, 0.9);    
+    border: 1px solid white;
+    letter-spacing: 0.04em;
+    padding: 0.5rem;
+    
+    }
 }
+
+ 
+
+@media (min-width: 1024px) {
+   .menu-selecao{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-left: 5%;
+  } 
+
+  .item-image-menu {
+    max-width: 40%;
+    margin: auto;
+  
+  }
+ 
+  .menu-item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: white;
+    font-family: 'THUNDERBOLT73-Regular', sans-serif;
+    font-size: 1.7rem;
+    width: auto;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgba(54, 11, 76, 0.9);    
+    border: 1px solid white;
+    letter-spacing: 0.04em;
+    padding: 0.5rem;
+    max-width: 85%;
+    }
+  }
+
+ 
