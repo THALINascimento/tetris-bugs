@@ -28,26 +28,65 @@ Você pode me encontrar:</p>
 <h2 tabindex="-1" dir="auto"><a id="user-content---em-construção--" class="anchor" aria-hidden="true" href="#--em-construção--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a> <g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png"><img class="emoji" alt="construction" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png"></g-emoji>  **Status do Projeto:**_EM CONSTRUÇÃO_ <g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png"><img class="emoji" alt="construction" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png"></g-emoji> </h2><h2 tabindex="-1" dir="auto"><a id="user-content--" class="anchor" aria-hidden="true" href="#-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a> 
 </h2></div>
 
+## Índice
 
+- [Índice](#índice)
+- [1. Resumo do Projeto 🍔🏪](#1-resumo-do-projeto-)
+- [2. Histórias de Usuário 📚](#2-histórias-de-usuário-)
+- [3. Fluxogramas📏📑📋](#3-fluxogramas)
+- [4. Protótipos 🎨🗂️](#4-protótipos-)
+  - [4.1 Tela de Login 💻📱](#41-tela-de-login-)
+  - [4.2 Perfil: Garçom/Garçonete 💁‍♀️](#42-perfil-garçomgarçonete-️)
+  - [4.3 Perfil: Chefe de Cozinha 👩‍🍳](#43-perfil-chefe-de-cozinha-)
+  - [4.4 Perfil: Administrador 👩‍💻](#44-perfil-administrador-)
+- [5. Sobre as desenvolvedoras 👩‍🎨](#5-sobre-as-desenvolvedoras-)
+  
+***
 
+## 1. Resumo do Projeto 🍔▶️
 
-Burger-Queen hamburger
-Quinto projeto realizado durante o bootcamp de Desenvolvimento Web da @Laboratoria, o projeto Burger Queen tem por objeto o desenvolvimento de uma interface de atendimento e realização otimizada de pedidos para um restaurante de hambúrgueres, usou-se a integração com API e o framework React. 
+Burger-Queen hamburger : Quinto projeto realizado durante o bootcamp de Desenvolvimento Web da @Laboratoria, o projeto Burger Queen tem por objeto o desenvolvimento de uma interface de atendimento e realização otimizada de pedidos para um restaurante de hambúrgueres, usou-se a integração com API e o framework React. 
 
  ![tetrisgif](https://github.com/THALINascimento/tetris-bugs/assets/114299360/f9c4433c-4206-4c7a-a484-197080ee12ac)
 
+## 2. Histórias de Usuário 📚
+<div align="center">
+  <img>
+</div>
+
+## 3. Fluxogramas📝
+
+Para compreensão e o planejamento da aplicação, foi desenvolvido um fluxograma com base nas história de usuário focando em atender a necessidade do cliente de forma intuitiva, objetiva e otimizada.
 
 ![Fluxograma Pedido](https://github.com/THALINascimento/tetris-bugs/assets/114299360/fb8a1d3d-5d25-419b-8c83-a29ccca7f0f4)
 
-
+## 4. Protótipos 🎨
  
 ![prototipo-teris](https://github.com/THALINascimento/tetris-bugs/assets/114299360/9ddcc5ab-10b6-4da6-8ac5-5c2290cd433d)
 
 
+### 4.1 Telas aplicação 💻📱
+
+A tela de login é o ponto de acesso ao `Tetris Bugs`. Após efetuar o login com sucesso, segue o direcionamento à respectiva área de trabalho personalizada.  
+
+<div align="center">
+<h4> Quer testar? </h4>
+
+ segue às credenciais: 
+
+|      |          Atendente/Garçonete   ✅      |      Chefe de Cozinha   ✅        |     Administrador ❌   |
+|------|-------------------------|-------------------------|-------------------------|
+|  📨  |     thai@linda.com    |    thali@linda.com  |  ari@linda.com       |
+|  🔐  |         123456          |         123456          |        123456           |
+
+</div>
 
 ![tels-login-tetris](https://github.com/THALINascimento/tetris-bugs/assets/114299360/2e1b2148-0ca6-477b-a05b-852368562b8f)
 
 ![tela-menu-tetris](https://github.com/THALINascimento/tetris-bugs/assets/114299360/30055011-00fc-432c-bc4a-4cf29ebd63b4)
 
  ![tela-pedido-tetris](https://github.com/THALINascimento/tetris-bugs/assets/114299360/43c5a779-507f-490f-914b-2dec5cf0450d)
+
+
+
 
