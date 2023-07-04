@@ -28,6 +28,8 @@ Você pode me encontrar:</p>
 <h2 tabindex="-1" dir="auto"><a id="user-content---em-construção--" class="anchor" aria-hidden="true" href="#--em-construção--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a> <g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png"><img class="emoji" alt="construction" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png"></g-emoji>  **Status do Projeto:**_EM CONSTRUÇÃO_ <g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png"><img class="emoji" alt="construction" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png"></g-emoji> </h2><h2 tabindex="-1" dir="auto"><a id="user-content--" class="anchor" aria-hidden="true" href="#-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a> 
 </h2></div>
 
+Acesse o projeto [aqui.](https://burguerqueen-tetris-bugs.vercel.app/)
+
 ## Índice
 
 - [Índice](#índice)
@@ -40,9 +42,11 @@ Você pode me encontrar:</p>
   
 ***
 
-## 1. Resumo do Projeto 🍔▶️
+## 1. Resumo do Projeto 🍔▶️ 
 
-Burger-Queen hamburger : Quinto projeto realizado durante o bootcamp de Desenvolvimento Web da @Laboratoria, o projeto Burger Queen tem por objeto o desenvolvimento de uma interface de atendimento e realização otimizada de pedidos para um restaurante de hambúrgueres, usou-se a integração com API e o framework React. 
+
+
+Burger-Queen hamburger : Acesse o projeto [aqui.](https://burguerqueen-tetris-bugs.vercel.app/) Quinto projeto realizado durante o bootcamp de Desenvolvimento Web da @Laboratoria, o projeto Burger Queen tem por objeto o desenvolvimento de uma interface de atendimento e realização otimizada de pedidos para um restaurante de hambúrgueres, usou-se a integração com API e o framework React. 
 
  ![tetrisgif](https://github.com/THALINascimento/tetris-bugs/assets/114299360/f9c4433c-4206-4c7a-a484-197080ee12ac)
 
@@ -68,7 +72,7 @@ A tela de login é o ponto de acesso ao `Tetris Bugs`. Após efetuar o login com
 
 <div align="center">
 <h4> Quer testar? </h4>
-
+Acesse o projeto [aqui.](https://burguerqueen-tetris-bugs.vercel.app/)
  segue às credenciais: 
 
 |      |          Atendente/Garçonete   ✅      |      Chefe de Cozinha   ✅        |     Administrador ❌   |
