@@ -35,8 +35,8 @@ Você pode me encontrar:</p>
 - [2. Histórias de Usuário 📚](#2-histórias-de-usuário-)
 - [3. Fluxogramas📏📑📋](#3-fluxogramas)
 - [4. Protótipos 🎨🗂️](#4-protótipos-)
-  - [4.1 Telas aplicaçao 💻📱](#41-telas-aplicação-)  
-- [5. Sobre as desenvolvedoras 👩‍🎨](#5-sobre-as-desenvolvedoras-)
+- [5. Telas aplicaçao 💻📱](#5-telas-aplicação-)  
+- [6. Sobre as desenvolvedoras 👩‍🎨](#6-sobre-as-desenvolvedoras-)
   
 ***
 
@@ -62,7 +62,7 @@ Para compreensão e o planejamento da aplicação, foi desenvolvido um fluxogram
 ![prototipo-teris](https://github.com/THALINascimento/tetris-bugs/assets/114299360/9ddcc5ab-10b6-4da6-8ac5-5c2290cd433d)
 
 
-### 4.1 Telas aplicação 💻📱
+### 5. Telas aplicação 💻📱
 
 A tela de login é o ponto de acesso ao `Tetris Bugs`. Após efetuar o login com sucesso, segue o direcionamento à respectiva área de trabalho personalizada.  
 
@@ -80,7 +80,7 @@ A tela de login é o ponto de acesso ao `Tetris Bugs`. Após efetuar o login com
 
 ![tels-login-tetris](https://github.com/THALINascimento/tetris-bugs/assets/114299360/2e1b2148-0ca6-477b-a05b-852368562b8f)
 
-### 4.2 Perfil: Atendente/Garçonete 💁‍♀️
+<h5> Perfil: Atendente/Garçonete 💁‍♀️</h5>
 
 Após efetuar o login, os garçons/garçonetes terão acesso à página inicial do sistema, que apresenta um menu intuitivo com diferentes opções para facilitar o gerenciamento de pedidos.
 
@@ -100,7 +100,7 @@ Para concluir o pedido com sucesso, será necessário inserir o nome e nº da me
 
  <h5> Perfil: Administrador 👩‍💻 </h5> em andamento
 
-## 5. Sobre as desenvolvedoras 👩‍🎨
+## 6. Sobre as desenvolvedoras 👩‍🎨
 
 
 
