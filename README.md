@@ -72,7 +72,9 @@ A tela de login é o ponto de acesso ao `Tetris Bugs`. Após efetuar o login com
 
 <div align="center">
 <h4> Quer testar? </h4>
+ 
 Acesse o projeto [aqui.](https://burguerqueen-tetris-bugs.vercel.app/)
+ 
  segue às credenciais: 
 
 |      |          Atendente/Garçonete   ✅      |      Chefe de Cozinha   ✅        |     Administrador ❌   |
