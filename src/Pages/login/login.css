@@ -26,12 +26,13 @@
   margin: 0;
   display: flex;
   justify-content: center;
+  padding: 0;
 }
 
 .imagem {
   display: block;
   padding: 1rem;
-  max-width: 70%;
+  max-width: 65%;
   margin: 0;
   margin-top: 2rem;
   margin-bottom: 2rem;  
@@ -50,7 +51,7 @@
 }
 
 .formulario input {
-  width: 90%; /* Valor ajustado */
+  width: 85%; /* Valor ajustado */
   border: 2px solid red;
   height: auto;
   border-radius: 10px;
@@ -64,14 +65,16 @@
   margin: 0;
   background: none;
   border: none;
-  padding: 0;
+  padding: 0.5rem;
   cursor: pointer;
   top: 0.6rem;
+
 }
 
 .play {
-  margin: 0;
-  width: 10rem;
+  margin: auto;
+  width: 12rem;
+  
 }
 
 .footer {
@@ -133,6 +136,7 @@
   
     .play {
       width: 8rem; 
+     
     }
     .footer {
       position: fixed;
