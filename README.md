@@ -35,10 +35,7 @@ Você pode me encontrar:</p>
 - [2. Histórias de Usuário 📚](#2-histórias-de-usuário-)
 - [3. Fluxogramas📏📑📋](#3-fluxogramas)
 - [4. Protótipos 🎨🗂️](#4-protótipos-)
-  - [4.1 Telas aplicaçao 💻📱](#41-tela-aplicação-)
-  - [4.2 Perfil: Garçom/Garçonete 💁‍♀️](#42-perfil-garçomgarçonete-️)
-  - [4.3 Perfil: Chefe de Cozinha 👩‍🍳](#43-perfil-chefe-de-cozinha-)
-  - [4.4 Perfil: Administrador 👩‍💻](#44-perfil-administrador-)
+  - [4.1 Telas aplicaçao 💻📱](#41-telas-aplicação-)  
 - [5. Sobre as desenvolvedoras 👩‍🎨](#5-sobre-as-desenvolvedoras-)
   
 ***
@@ -83,9 +80,27 @@ A tela de login é o ponto de acesso ao `Tetris Bugs`. Após efetuar o login com
 
 ![tels-login-tetris](https://github.com/THALINascimento/tetris-bugs/assets/114299360/2e1b2148-0ca6-477b-a05b-852368562b8f)
 
+### 4.2 Perfil: Atendente/Garçonete 💁‍♀️
+
+Após efetuar o login, os garçons/garçonetes terão acesso à página inicial do sistema, que apresenta um menu intuitivo com diferentes opções para facilitar o gerenciamento de pedidos.
+
+Para registrar um novo pedido, deverá escolher a mesa correspondente e para gerenciar os pedidos que já foram realizados e enviados para a cozinha, na seção "Pedidos", será possível visualizar todos os pedidos. 
+
+Após selecionar a opção do cardápio com a opção de aplicar filtros para facilitar a busca dos itens desejados o garçom/garçonete selecionar o(s) produto(s), este será automaticamente exibido no resumo do pedido/comanda. Terá a possibilidade de ajustar a quantidade do item, aumentando ou diminuindo, além de poder excluí-lo, caso necessário e acompanha o detalhamento da comanda.
+
+Para concluir o pedido com sucesso, será necessário inserir o nome e nº da mesa respectivamente e clicar no botão "Play". Recebe uma confirmação de envio através de um modal. 
+
+<h5> Tela inicial vista pelo garçom/garçonete 💁‍♀️ </h5>
+
 ![tela-menu-tetris](https://github.com/THALINascimento/tetris-bugs/assets/114299360/30055011-00fc-432c-bc4a-4cf29ebd63b4)
 
+<h5> Tela inicial Chefe de Cozinha👩‍🍳 e acompanhamento de status de pedidos garçom/garçonete 💁‍♀️ </h5>
+
  ![tela-pedido-tetris](https://github.com/THALINascimento/tetris-bugs/assets/114299360/43c5a779-507f-490f-914b-2dec5cf0450d)
+
+ <h5> Perfil: Administrador 👩‍💻 </h5> em andamento
+
+## 5. Sobre as desenvolvedoras 👩‍🎨
 
 
 
