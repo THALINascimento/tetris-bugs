@@ -35,7 +35,7 @@ Você pode me encontrar:</p>
 - [2. Histórias de Usuário 📚](#2-histórias-de-usuário-)
 - [3. Fluxogramas📏📑📋](#3-fluxogramas)
 - [4. Protótipos 🎨🗂️](#4-protótipos-)
-  - [4.1 Tela aplicaçao 💻📱](#41-tela-aplicação-)
+  - [4.1 Telas aplicaçao 💻📱](#41-tela-aplicação-)
   - [4.2 Perfil: Garçom/Garçonete 💁‍♀️](#42-perfil-garçomgarçonete-️)
   - [4.3 Perfil: Chefe de Cozinha 👩‍🍳](#43-perfil-chefe-de-cozinha-)
   - [4.4 Perfil: Administrador 👩‍💻](#44-perfil-administrador-)
