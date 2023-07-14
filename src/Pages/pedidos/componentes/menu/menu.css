@@ -33,6 +33,7 @@
   margin-top: 5rem;
   margin-left: 5%;
  padding: 1.5rem;
+   width: 95%;
  
 } 
 /* tratando da lista de itens */
@@ -58,12 +59,12 @@
 .item-name,
 .item-price {
  
-  margin: auto;
-  position: relative;
+  position: initial;
+    margin-block-end: auto;
 }
 
 .item-image-menu {
-  width: 20%;
+  max-width: 35%;
   height: auto;
   margin:auto;  
   position: relative;
