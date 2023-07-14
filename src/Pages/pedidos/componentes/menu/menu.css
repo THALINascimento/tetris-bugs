@@ -58,8 +58,9 @@
 
 .item-name,
 .item-price {
- 
-  position: initial;
+  margin: auto;
+  position: relative;
+   
     margin-block-end: auto;
 }
 
