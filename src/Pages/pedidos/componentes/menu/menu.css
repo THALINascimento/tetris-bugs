@@ -24,7 +24,7 @@
 .pagina-atendimento {
   display: grid;
   grid-template-columns: 0.6fr 1fr;
-  gap: 2rem;
+  gap: 2.5rem;
 }
 
  .menu-selecao{
@@ -32,8 +32,8 @@
   flex-direction: row-reverse;
   margin-top: 5rem;
   margin-left: 5%;
- padding: 1.5rem;
-   width: 90%;
+  padding: 1.5rem;
+  width: 95%;
  
 } 
 /* tratando da lista de itens */
